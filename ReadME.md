@@ -137,13 +137,11 @@ Will come soon after AAAI24 in February!
 ```
 
 ## Acknowledgement
-This work was supported by the Federal Ministry of the Environment, Nature 
-Conservation, Nuclear Safety and Consumer Protection, Germany under the project 
-**GreenAutoML4FAS** (grant no. 67KI32007A). 
-
-The work was done at the Leibniz University Hannover and published at the 
-*Workshop on Resource Efficient Deep Learning for Computer Vision* at the 
-International Conference on Computer Vision 2023.
+This work was supported by the Federal Ministry of Education and Research 
+(BMBF), Germany under the AI service center KISSKI (grant no. 01IS22093C) 
+and the Deutsche Forschungsgemeinschaft (DFG) under Germany’s Excellence 
+Strategy within the Cluster of Excellence PhoenixD (EXC 2122). This work was 
+partially supported by Intel Corporation and by the German Federal Ministry of the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (**GreenAutoML4FAS** project no. 67KI32007A). 
 
 <p align="center">
     <img width="100" height="100" src="fig/AutoML4FAS_Logo.jpeg"> 
