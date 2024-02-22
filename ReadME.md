@@ -135,9 +135,13 @@ If you use this code, please cite our paper:
 ```bibtex
 Will come soon after AAAI24 in February!
 ```
+## License Notice
+
+The **content of this repository** is licensed under the [BSD 3-Clause](https://opensource.org/license/bsd-3-clause).   
 
 ## Acknowledgement
-This work was supported by the Federal Ministry of Education and Research 
+This work was partially supported by the Federal Ministry of Education and 
+Research 
 (BMBF), Germany under the AI service center KISSKI (grant no. 01IS22093C) 
 and the Deutsche Forschungsgemeinschaft (DFG) under Germany’s Excellence 
 Strategy within the Cluster of Excellence PhoenixD (EXC 2122). This work was 
